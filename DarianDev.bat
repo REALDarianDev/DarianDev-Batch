@@ -14,6 +14,6 @@ cls
 :READY
 cd Data
 timeout 4
-DarianDev2.bat
+DarianDev2.exe
 
 
