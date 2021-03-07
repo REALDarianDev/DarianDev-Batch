@@ -1,5 +1,5 @@
 @Echo off
-Title Starting DarianDev Batch !BETA!
+Title Starting DarianDev Batch
 pause
 Title Welcome %USERNAME%!
 Echo Welcome %USERNAME%!
